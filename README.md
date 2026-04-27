@@ -73,6 +73,10 @@ The SHAP force plot provides a local explanation of an individual prediction by 
 - SHAP
 - Pandas, NumPy
 
+## 🧠 Key Insight
+
+The results show that classical ML models with TF-IDF can outperform more complex approaches when properly tuned.
+
 ## Kaggle source
 
 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
