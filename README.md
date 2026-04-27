@@ -14,6 +14,16 @@ The goal of this project is to compare different NLP approaches and machine lear
 - SHAP model interpretability
 - Comparison: ML vs LLM
 
+## 🔄 Pipeline
+
+1. Data cleaning and preprocessing  
+2. Text vectorization (TF-IDF, BoW)  
+3. Model training (LogReg, SVM, XGBoost, NB)  
+4. Hyperparameter tuning  
+5. Evaluation (F1-score, ROC-AUC)  
+6. Model interpretation (SHAP)  
+7. LLM comparison via API  
+
 ## Features
 
 - Text preprocessing (cleaning, stopword removal, lemmatization)
