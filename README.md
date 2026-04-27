@@ -18,7 +18,7 @@ The goal of this project is to compare different NLP approaches and machine lear
 - Hyperparameter tuning using GridSearchCV
 - Experiment tracking with MLflow
 - Model interpretability using SHAP
-- Comparison with LLM-based classification via API
+- Comparison with LLM-based classification via API (Accuracy: 0.90)
 
 ## Results
 
