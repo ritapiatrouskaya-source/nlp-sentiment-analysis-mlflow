@@ -6,6 +6,14 @@ This project implements an end-to-end sentiment analysis pipeline for classifyin
 
 The goal of this project is to compare different NLP approaches and machine learning models for sentiment classification and analyze their performance.
 
+## 🚀 Project Highlights
+
+- End-to-end NLP pipeline
+- MLflow experiment tracking
+- Hyperparameter tuning (GridSearchCV)
+- SHAP model interpretability
+- Comparison: ML vs LLM
+
 ## Features
 
 - Text preprocessing (cleaning, stopword removal, lemmatization)
