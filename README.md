@@ -41,8 +41,8 @@ The goal of this project is to compare different NLP approaches and machine lear
 ## Results
 
 - Best model: Logistic Regression + TF-IDF
-- Accuracy: 0.86
-- F1-score: 0.86
+- Accuracy: 0.9
+- F1-score: 0.9
 
 ## Hyperparameter Tuning (MLflow)
 
